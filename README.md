@@ -75,4 +75,4 @@ This notebook covers:
 ## Notes
 - All analysis emphasizes business interpretability over model complexity
 - Code includes comments explaining key decisions and trade-offs
-- Visualizations support business recommendations for marketing strategy
+- Visualizations support business recommendations for marketing
