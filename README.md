@@ -61,7 +61,7 @@ This notebook covers:
 - Segment characterization
 
 ## Key Considerations
-- **Weighted Sampling**: Data includes sampling weights - consider in analysis
+- **Weighted Sampling**: Data includes sampling weights
 - **Class Imbalance**: Income distribution may be imbalanced
 - **Feature Types**: Mix of categorical and numeric features
 - **Business Context**: Focus on interpretability for marketing applications
