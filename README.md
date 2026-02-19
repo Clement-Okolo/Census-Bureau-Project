@@ -46,7 +46,7 @@ jupyter notebook 01_classification_model.ipynb
 ```
 This notebook covers:
 - Data loading and exploration
-- Data preprocessing and feature engineering
+- Data Exploration and preprocessing
 - Model training (multiple classifiers)
 - Model evaluation and cross-validation
 - Results interpretation
