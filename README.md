@@ -57,9 +57,8 @@ jupyter notebook 02_segmentation_model.ipynb
 ```
 This notebook covers:
 - Data preparation for clustering
-- Clustering analysis (K-means, hierarchical clustering)
+- Clustering analysis (K-means)
 - Segment characterization
-- Marketing recommendations
 
 ## Key Considerations
 - **Weighted Sampling**: Data includes sampling weights - consider in analysis
