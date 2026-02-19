@@ -48,7 +48,7 @@ This notebook covers:
 - Data loading and exploration
 - Data Exploration and preprocessing
 - Model training (multiple classifiers)
-- Model evaluation and cross-validation
+- Model evaluation
 - Results interpretation
 
 #### 2. Segmentation Model
