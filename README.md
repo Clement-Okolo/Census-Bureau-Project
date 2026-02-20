@@ -18,7 +18,7 @@ Project/
 ├── 01_classification_model.ipynb   # Classification model development
 ├── 02_segmentation_model.ipynb     # Segmentation model development
 ├── README.md                       # This file
-└── Project_Report.pdf               # Client-facing report
+└── Project Report.pdf               # Client-facing report
 ```
 
 ## Setup Instructions
@@ -70,7 +70,7 @@ This notebook covers:
 1. ✅ `01_classification_model.ipynb` - Classification code
 2. ✅ `02_segmentation_model.ipynb` - Segmentation code
 3. ✅ `README.md` - Execution instructions
-4. ✅ `PROJECT_REPORT.md` - Client report with findings & recommendations
+4. ✅ `Project Rort.pdf` - Client report with findings & recommendations
 
 ## Notes
 - All analysis emphasizes business interpretability over model complexity
