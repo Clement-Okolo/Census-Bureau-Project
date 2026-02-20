@@ -18,7 +18,7 @@ Project/
 ├── 01_classification_model.ipynb   # Classification model development
 ├── 02_segmentation_model.ipynb     # Segmentation model development
 ├── README.md                       # This file
-└── PROJECT_REPORT.md               # Client-facing report
+└── Project_Report.pdf               # Client-facing report
 ```
 
 ## Setup Instructions
